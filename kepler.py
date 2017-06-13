@@ -9,7 +9,7 @@ def draw_graph(x,y):
     plt.title('Projectile motion')
     plt.plot(x,y)
     plt.show()
-
+#test
   
 def animate(i):
   # 50回 1回  表示
